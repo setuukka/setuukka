@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stuugi
+- 👋 Hi, I’m @setuukka
 - 👀 I’m interested in music, e-commerce, retail, leadership, management, accounting, Data analytics, business intelligence
 - 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate at the moment
