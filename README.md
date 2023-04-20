@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stuugi
-- 👀 I’m interested in music, e-commerce, retail, leadership, management etc.
+- 👀 I’m interested in music, e-commerce, retail, leadership, management, accounting, Data analytics, business intelligence
 - 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate at the moment
 - 📫 How to reach me ...
